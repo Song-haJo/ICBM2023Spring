@@ -1,3 +1,7 @@
+# ChatGPT traslated the code of the link below:
+# https://github.com/dotnet/iot/blob/02437dfa295cf8b627fb734236a79c16881d0cb7/samples/force-sensitive-resistor/Program.cs#L24-L37
+
+
 import time
 from Iot.Device.Adc import Adc
 from force_sensitive_resistor import FsrWithAdcSample, FsrWithCapacitorSample
